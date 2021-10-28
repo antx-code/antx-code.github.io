@@ -1,7 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - 分类 - Antx RCT Space</title>
+        <title>Categories - 分类 - Antx&#39;s RCT Space</title>
         <link>http://example.org/categories/</link>
-        <description>Categories - 分类 - Antx RCT Space</description>
+        <description>Categories - 分类 - Antx&#39;s RCT Space</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>

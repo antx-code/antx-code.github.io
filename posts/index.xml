@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>所有文章 - Antx RCT Space</title>
+        <title>所有文章 - Antx&#39;s RCT Space</title>
         <link>http://example.org/posts/</link>
-        <description>所有文章 | Antx RCT Space</description>
+        <description>所有文章 | Antx&#39;s RCT Space</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 29 Oct 2021 04:00:42 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
     <title>如何使用Github Pages &#43; Hugo主题搭建自己的个人博客</title>
     <link>http://example.org/posts/first_post/</link>
     <pubDate>Fri, 29 Oct 2021 04:00:42 &#43;0800</pubDate><author>
         <name>作者</name>
     </author><guid>http://example.org/posts/first_post/</guid>
-    <description><![CDATA[Requirements xxx]]></description>
+    <description><![CDATA[前言 最近又燃起了想要搭建自己博客的想法，经过一番比较之后还是选择了使用Github Pages搭建个人的博客，主要方便记录，主题使用的是Hug]]></description>
 </item></channel>
 </rss>
